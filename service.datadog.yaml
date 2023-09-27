@@ -1,0 +1,42 @@
+{
+  "schema-version": "v2.1",
+  "dd-service": "true-repo",
+  "contacts": [
+    {
+      "type": "email",
+      "name": "Rock N",
+      "contact": "rcnquest@gmail.com"
+    },
+    {
+      "type": "email",
+      "name": "Ray N",
+      "contact": "raynodim@gmail.com"
+    }
+  ],
+  "application": "Web services and repositories",
+  "description": "Generic REST API and GraphQL service endpoints",
+  "tier": "tier 1",
+  "lifecycle": "test",
+  "tags": [
+    "environment:test"
+  ]
+}
+---
+{
+  "schema-version": "v2.1",
+  "dd-service": "true-webservice",
+  "contacts": [
+    {
+      "type": "email",
+      "name": "Rock N",
+      "contact": "raynodim@gmail.com"
+    }
+  ],
+  "application": "Great Web services",
+  "description": "Generic REST API and GraphQL service endpoints",
+  "tier": "misc tiers",
+  "lifecycle": "test",
+  "tags": [
+    "environment:test"
+  ]
+}
